@@ -1,0 +1,11 @@
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.MainForm.resources
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.csproj.GenerateResource.Cache
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\bin\Debug\winforms_DeLosReyes.exe.config
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\bin\Debug\winforms_DeLosReyes.exe
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\bin\Debug\winforms_DeLosReyes.pdb
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.exe
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.pdb
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.Form1.resources
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\bin\Debug\app.config
+C:\Users\Admin-PC\Documents\SharpDevelop Projects\winforms_DeLosReyes\winforms_DeLosReyes\obj\Debug\winforms_DeLosReyes.Form2.resources
